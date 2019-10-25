@@ -1,9 +1,6 @@
 # UISoftDevTeam
 
--balsamiq > ออกแบบ wiree frame ใหม่
--fontawesom > CDN or Dowload ลงคอม
--google front
--printerest > website design สากลทั่วไป
+
 
 //////-------------------------------------------------------------------------------------------------///////
 Requirements
