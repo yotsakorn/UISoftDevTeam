@@ -1,8 +1,3 @@
 # UISoftDevTeam
 
-
-
-#//////------------------------------------------------/////// 
-#Requirements
-#Functional requirement  
 		
